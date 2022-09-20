@@ -1,9 +1,5 @@
 
 <h1 align="center">
-<br>
-  <img src="YOUR_LOGO_URL" alt="MyContacts" width="120">
-<br>
-<br>
 MyContacts
 </h1>
 
